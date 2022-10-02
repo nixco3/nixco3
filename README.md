@@ -1,6 +1,6 @@
 # Hi, I'm [@nixco3](https://github.com/nixco3).  
 
- I speak Spanish and English (i'm still learning)
+ I speak **Spanish** and **English** (I'm still learning)
 
 -------------------------------------------------------------------------------------------
 
